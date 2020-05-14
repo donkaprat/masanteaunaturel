@@ -40,7 +40,7 @@ function Footer() {
             </div>
             <div className='dev'>
                 <span>Creation site:
-                <a href='https://donka-creation.fr/'> Donka creation</a> / <a href=''>Florian Zemma</a>
+                <a href='https://donka-creation.fr/'> Donka creation</a>
                 </span>
             </div>
         </div>
